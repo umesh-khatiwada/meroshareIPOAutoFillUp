@@ -1,0 +1,4 @@
+./cypress/fixtures/companyDetails.json
+./cypress/fixtures/meroUser.json
+./node_modules
+./cypress/fixtures/meroAllUsers.json

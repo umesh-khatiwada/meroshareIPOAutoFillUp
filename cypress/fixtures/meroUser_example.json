@@ -1,0 +1,14 @@
+[
+    {
+    "name": "<User name>",
+    "bank":"<Broker ID>",
+    "user":"<userID>",
+    "pwd":"password",
+    "crnNumber":"<crnNumber>",
+    "appliedKitta":"10",
+    "selectBank":"<select the banker which you have BOID>",
+    "transactionPIN":"1234"
+
+    }
+    
+    ]
